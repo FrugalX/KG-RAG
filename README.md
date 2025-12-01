@@ -4,7 +4,7 @@ Build a domain-agnostic KG-RAG framework with a pluggable knowledge graph core, 
 
 [Project overview](Overview.md)
 
-[COre Graph Engine](Core-Graph-Engine-Specification.md)
+[Core Graph Engine](Core-Graph-Engine-Specification.md)
 
 [KG-RAG Engine](KG-RAG-Engine-Specification.md)
 
