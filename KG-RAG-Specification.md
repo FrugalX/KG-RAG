@@ -409,7 +409,7 @@ export interface WorkflowGraphEngine {
 ## 9) Agentic Ingestion & KG Construction Layer  
 
 ### Purpose  
-Provide an optional **downstream orchestration layer** of  **autonomous agents** that leverages the established KG-RAG core to automatically convert raw documents, datasets, or structured inputs into validated **Knowledge Graph (KG) snapshots**.
+Provide a **downstream orchestration layer** of  **autonomous agents** that leverages the established KG-RAG core to automatically convert raw documents, datasets, or structured inputs into validated **Knowledge Graph (KG) snapshots**.
 This layer can be introduced after the core modules (`GraphEngine`, Wrappers, KG-RAG Engine) have been implemented and tested, enabling real-world ingestion and continuous KG maintenance through autonomous agents.  
 
 ### Position in Stack  
@@ -548,7 +548,7 @@ Node.js Test Runner — testing framework for unit and integration tests
 rag-lite-ts — Traditional RAG framework
 Persistence — JSON snapshots, or SQLite for graph storage  
 
-### Agentic Layer (Optional Downstream Integration)
+### Agentic Layer (Downstream Integration)
 
 LLM APIs: OpenAI GPT-5, Anthropic Claude, Google Gemini or local models (Ollama)  
 Orchestration Frameworks: Dexto  
