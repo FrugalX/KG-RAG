@@ -19,4 +19,7 @@ Build a domain-agnostic KG-RAG framework with a pluggable knowledge graph core, 
 [Development Guide](Dev-Guide.md)
 <br>
 <br>
-[COnsolidated Specification](KG-RAG-Specification.md)
+
+---
+
+[Consolidated Specification](KG-RAG-Specification.md)
